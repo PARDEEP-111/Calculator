@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    /* border: 2px solid blue; */
+}
+.text-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
