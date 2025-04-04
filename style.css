@@ -5,7 +5,12 @@ body{
     align-items: center;
     flex-direction: column;
 }
+body h1{
+    text-shadow: 2px 5px 6px grey;
+}
 .container{
+    border-radius: 10px;
+    box-shadow: 12px 13px 32px rgb(92, 89, 89);
     background-color: black;
     /* margin: 10px; */
     padding: 10px;
